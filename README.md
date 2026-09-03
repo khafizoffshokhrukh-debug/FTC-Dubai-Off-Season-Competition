@@ -78,7 +78,7 @@ This achievement was especially meaningful because it demonstrated the connectio
 Our team consisted of four members with different technical and competition responsibilities.
 
 <p align="center">
-<img width="1280" height="960" alt="photo_2025-02-22_13-21-45" src="https://github.com/user-attachments/assets/e5ab94f0-eba8-43cf-b305-aa041c78f362" />
+<img width="1280" height="960" alt="photo_2026-09-03_15-31-14" src="https://github.com/user-attachments/assets/0a9c5a63-6ce2-4d9c-82ed-46b2e8f48b9f" />
 
 </p>
 
@@ -89,7 +89,7 @@ Our team consisted of four members with different technical and competition resp
 ### CAD Designer • Driver
 
 <p align="center">
-  <img width="1207" height="1655" alt="IMG_20260228_102145_588_LE_upscale_prime" src="https://github.com/user-attachments/assets/e800086f-a27c-431f-a985-9a5a8256d53b" />
+  <img width="500" height="700" alt="IMG_20260228_102145_588_LE_upscale_prime" src="https://github.com/user-attachments/assets/e800086f-a27c-431f-a985-9a5a8256d53b" />
 
 </p>
 
@@ -118,7 +118,7 @@ I controlled the robot's **manipulator mechanisms**, while the second driver con
 ### Engineer • Driver
 
 <p align="center">
-<img width="960" height="1280" alt="asad 23" src="https://github.com/user-attachments/assets/80e9f70e-7ca2-449d-88b8-da75522e3f31" />
+<img width="500" height="700" alt="asad 23" src="https://github.com/user-attachments/assets/80e9f70e-7ca2-449d-88b8-da75522e3f31" />
 </p>
 
 Asadbek worked as an **Engineer** and **Driver**.
@@ -143,7 +143,7 @@ Asadbek was the second driver and controlled the **movement and driving of the r
 ### Coder • Human Player
 
 <p align="center">
-<img width="960" height="1280" alt="akabar" src="https://github.com/user-attachments/assets/d432cdb1-753e-4924-9513-1d1f12610fea" />
+<img width="500" height="700" alt="akabar" src="https://github.com/user-attachments/assets/d432cdb1-753e-4924-9513-1d1f12610fea" />
 </p>
 
 Akbarshox was responsible for the **coding and software development** of the robot.
@@ -167,7 +167,7 @@ Akbarshox performed the **Human Player** role during matches.
 ### Designer • Coach
 
 <p align="center">
- <img width="944" height="1260" alt="IMG_20260901_215237_180" src="https://github.com/user-attachments/assets/c1cc93f1-6b9d-4f7d-83bc-10abf3ab716a" />
+ <img width="500" height="700" alt="IMG_20260901_215237_180" src="https://github.com/user-attachments/assets/c1cc93f1-6b9d-4f7d-83bc-10abf3ab716a" />
 </p>
 
 Mirsaid worked as a **Designer** and **Coach**.
