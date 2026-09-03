@@ -1,14 +1,14 @@
 # 🤖 FTC Dubai 2025
 
 <p align="center">
-  <img src="YOUR_ROBOT_IMAGE.jpg" width="750">
+  <img width="1280" height="854" alt="photo_2025-07-01_19-33-59" src="https://github.com/user-attachments/assets/6b90e42a-206e-47a2-ba6a-6b41aeba60ba" />
+
 </p>
 
-<h2 align="center">FIRST Tech Challenge • Dubai • 2025</h2>
+<img width="1280" height="854" alt="photo_2025-07-01_19-33-59" src="https://github.com/user-attachments/assets/463b584d-fffb-4dfb-9833-4c94ef6633ee" />
 
-<p align="center">
-  <b>🥈 2nd Place • Finalist Alliance • Control Award</b>
-</p>
+
+
 
 ---
 
@@ -46,7 +46,8 @@ This event was an important milestone for our team and gave us valuable experien
 ## Finalist Alliance
 
 <p align="center">
-  <img src="YOUR_FINALIST_ALLIANCE_IMAGE.jpg" width="700">
+ <img width="1543" height="1295" alt="Снимок экрана 2026-09-03 151731_LE_upscale_prime" src="https://github.com/user-attachments/assets/caa2e4e2-9bcb-4a60-83a8-01f377dcd3ba" />
+
 </p>
 
 Our team became part of the **Finalist Alliance** and finished the competition in **2nd place**.
@@ -58,7 +59,8 @@ Reaching the finals required strong teamwork, consistent robot performance, effe
 # 🎖️ Control Award
 
 <p align="center">
-  <img src="YOUR_CONTROL_AWARD_IMAGE.jpg" width="650">
+  <img width="895" height="533" alt="photo_2026-09-03_15-02-50" src="https://github.com/user-attachments/assets/f55429c2-6f72-4abb-86d3-5515898213ee" />
+
 </p>
 
 Our team also received the **Control Award**.
