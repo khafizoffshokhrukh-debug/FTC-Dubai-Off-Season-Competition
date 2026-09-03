@@ -1,7 +1,8 @@
 # 🤖 FTC Dubai 2025
 
 <p align="center">
-  <img width="1280" height="854" alt="photo_2025-07-01_19-33-59" src="https://github.com/user-attachments/assets/6b90e42a-206e-47a2-ba6a-6b41aeba60ba" />
+  <img width="1280" height="854" alt="photo_2025-07-01_19-33-58" src="https://github.com/user-attachments/assets/2a0a6a0b-b393-4211-9c13-ab5c2abd41b8" />
+
 
 </p>
 
@@ -59,7 +60,8 @@ Reaching the finals required strong teamwork, consistent robot performance, effe
 # 🎖️ Control Award
 
 <p align="center">
-  <img width="895" height="533" alt="photo_2026-09-03_15-02-50" src="https://github.com/user-attachments/assets/f55429c2-6f72-4abb-86d3-5515898213ee" />
+ <img width="1833" height="1090" alt="photo_2026-09-03_15-02-50_LE_upscale_prime" src="https://github.com/user-attachments/assets/58c2320a-0129-4c68-9a3d-714e2bceaf7c" />
+
 
 </p>
 
@@ -76,7 +78,8 @@ This achievement was especially meaningful because it demonstrated the connectio
 Our team consisted of four members with different technical and competition responsibilities.
 
 <p align="center">
-  <img src="YOUR_TEAM_PHOTO.jpg" width="750">
+<img width="1280" height="960" alt="photo_2025-02-22_13-21-45" src="https://github.com/user-attachments/assets/e5ab94f0-eba8-43cf-b305-aa041c78f362" />
+
 </p>
 
 ---
@@ -86,7 +89,8 @@ Our team consisted of four members with different technical and competition resp
 ### CAD Designer • Driver
 
 <p align="center">
-  <img src="YOUR_SHOXRUXMIRZO_PHOTO.jpg" width="300">
+  <img width="1207" height="1655" alt="IMG_20260228_102145_588_LE_upscale_prime" src="https://github.com/user-attachments/assets/e800086f-a27c-431f-a985-9a5a8256d53b" />
+
 </p>
 
 I worked as a **CAD Designer** and **Driver**.
@@ -114,7 +118,7 @@ I controlled the robot's **manipulator mechanisms**, while the second driver con
 ### Engineer • Driver
 
 <p align="center">
-  <img src="YOUR_ASADBEK_PHOTO.jpg" width="300">
+<img width="960" height="1280" alt="asad 23" src="https://github.com/user-attachments/assets/80e9f70e-7ca2-449d-88b8-da75522e3f31" />
 </p>
 
 Asadbek worked as an **Engineer** and **Driver**.
@@ -139,7 +143,7 @@ Asadbek was the second driver and controlled the **movement and driving of the r
 ### Coder • Human Player
 
 <p align="center">
-  <img src="YOUR_AKBARSHOX_PHOTO.jpg" width="300">
+<img width="960" height="1280" alt="akabar" src="https://github.com/user-attachments/assets/d432cdb1-753e-4924-9513-1d1f12610fea" />
 </p>
 
 Akbarshox was responsible for the **coding and software development** of the robot.
@@ -163,7 +167,7 @@ Akbarshox performed the **Human Player** role during matches.
 ### Designer • Coach
 
 <p align="center">
-  <img src="YOUR_MIRSAID_PHOTO.jpg" width="300">
+ <img width="944" height="1260" alt="IMG_20260901_215237_180" src="https://github.com/user-attachments/assets/c1cc93f1-6b9d-4f7d-83bc-10abf3ab716a" />
 </p>
 
 Mirsaid worked as a **Designer** and **Coach**.
@@ -215,7 +219,7 @@ Controlled:
 The drivers had to communicate and coordinate their actions precisely during matches.
 
 <p align="center">
-  <img src="YOUR_DRIVERS_IMAGE.jpg" width="750">
+  <img width="1018" height="1280" alt="xaxaxa" src="https://github.com/user-attachments/assets/e5451ccf-ef78-477e-b12f-3b3b74b0baa2" />
 </p>
 
 ---
