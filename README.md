@@ -261,7 +261,7 @@ He supported the team through:
 # 🤖 Our Robot
 
 <p align="center">
-  <img src="YOUR_FINAL_ROBOT_IMAGE.jpg" width="800">
+
 </p>
 
 Our robot was developed and prepared specifically for FTC competition.
@@ -294,11 +294,13 @@ As the team's CAD Designer, I worked on the mechanical structure and components 
 * Manufacturing preparation
 
 <p align="center">
-  <img src="YOUR_CAD_IMAGE_1.jpg" width="750">
+<img width="995" height="963" alt="photo_2025-05-01_23-33-33" src="https://github.com/user-attachments/assets/4efc5555-20be-46b5-ac76-11d71d124473" /><img width="1276" height="1127" alt="photo_2025-05-01_23-33-16" src="https://github.com/user-attachments/assets/70d96398-eb28-4cb3-a756-f937d3d5f962" />
+
 </p>
 
 <p align="center">
-  <img src="YOUR_CAD_IMAGE_2.jpg" width="750">
+ ![Uploading photo_2025-05-01_23-33-16.jpg…]()
+
 </p>
 
 ---
@@ -312,7 +314,8 @@ Our robot went through several stages before reaching its competition-ready form
 We started by analyzing the competition requirements and discussing possible robot designs and strategies.
 
 <p align="center">
-  <img src="YOUR_PROCESS_01.jpg" width="750">
+ <img width="960" height="1280" alt="photo_2025-06-10_20-53-31" src="https://github.com/user-attachments/assets/0ba72c9f-c2af-4555-89af-9cdd887e57ea" />
+
 </p>
 
 ---
@@ -322,7 +325,7 @@ We started by analyzing the competition requirements and discussing possible rob
 We developed the robot structure and mechanisms using CAD.
 
 <p align="center">
-  <img src="YOUR_PROCESS_02.jpg" width="750">
+  <img width="1041" height="847" alt="photo_2025-04-21_18-57-23" src="https://github.com/user-attachments/assets/c1400c96-ccf5-4aa8-a260-348932992877" />
 </p>
 
 ---
@@ -417,20 +420,10 @@ The competition environment required us to adapt quickly, communicate effectivel
 
 # 🏆 Awards & Certificates
 
-## 🥈 2nd Place
-
-<p align="center">
-  <img src="YOUR_2ND_PLACE_CERTIFICATE.jpg" width="650">
-</p>
-
-Our team finished the competition in **2nd place** as part of the **Finalist Alliance**.
-
----
-
 ## 🏅 Finalist Alliance
 
 <p align="center">
-  <img src="YOUR_FINALIST_CERTIFICATE.jpg" width="650">
+<img width="1833" height="1090" alt="photo_2026-09-03_15-02-50_LE_upscale_prime" src="https://github.com/user-attachments/assets/82d2e8ec-c837-4de7-8339-96ac9d29d469" />
 </p>
 
 Our team reached the **Finalist Alliance**.
@@ -440,7 +433,7 @@ Our team reached the **Finalist Alliance**.
 ## 🎖️ Control Award
 
 <p align="center">
-  <img src="YOUR_CONTROL_AWARD_CERTIFICATE.jpg" width="650">
+ <img width="1833" height="1090" alt="photo_2026-09-03_15-02-50_LE_upscale_prime" src="https://github.com/user-attachments/assets/6733d8d3-b2ca-493c-bf6a-534f3a7b996f" />
 </p>
 
 We received the **Control Award** for our robot's control system.
@@ -452,7 +445,7 @@ We received the **Control Award** for our robot's control system.
 ## 👥 Full Team
 
 <p align="center">
-  <img src="YOUR_TEAM_PHOTO_2.jpg" width="800">
+<img width="1280" height="854" alt="photo_2025-06-26_05-42-15" src="https://github.com/user-attachments/assets/e6b49517-57e6-4f5a-92c3-015f003194b7" />
 </p>
 
 ## 🤖 Team & Robot
