@@ -405,15 +405,20 @@ The competition environment required us to adapt quickly, communicate effectivel
 # 🏁 Competition Moments
 
 <p align="center">
-  <img src="YOUR_MATCH_IMAGE_1.jpg" width="750">
+ <img width="1280" height="960" alt="photo_2025-06-28_22-58-02" src="https://github.com/user-attachments/assets/756bf6be-e7ec-4423-9f1b-865839d2b71c" />
+
 </p>
 
 <p align="center">
-  <img src="YOUR_MATCH_IMAGE_2.jpg" width="750">
+<img width="960" height="1280" alt="photo_2026-09-04_10-17-23" src="https://github.com/user-attachments/assets/3260adc6-ea6c-4dbb-9dd2-9762bafe79a5" />
+
+
+
+
 </p>
 
 <p align="center">
-  <img src="YOUR_MATCH_IMAGE_3.jpg" width="750">
+ <img width="854" height="1280" alt="photo_2026-09-04_10-17-43" src="https://github.com/user-attachments/assets/2df01205-56a1-48c1-b71d-06c376d753fd" />
 </p>
 
 ---
