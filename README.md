@@ -418,27 +418,7 @@ The competition environment required us to adapt quickly, communicate effectivel
 
 ---
 
-# 🏆 Awards & Certificates
 
-## 🏅 Finalist Alliance
-
-<p align="center">
-<img width="1833" height="1090" alt="photo_2026-09-03_15-02-50_LE_upscale_prime" src="https://github.com/user-attachments/assets/82d2e8ec-c837-4de7-8339-96ac9d29d469" />
-</p>
-
-Our team reached the **Finalist Alliance**.
-
----
-
-## 🎖️ Control Award
-
-<p align="center">
- <img width="1833" height="1090" alt="photo_2026-09-03_15-02-50_LE_upscale_prime" src="https://github.com/user-attachments/assets/6733d8d3-b2ca-493c-bf6a-534f3a7b996f" />
-</p>
-
-We received the **Control Award** for our robot's control system.
-
----
 
 # 📸 Team Gallery
 
@@ -457,7 +437,8 @@ We received the **Control Award** for our robot's control system.
 ## 🏆 Awards
 
 <p align="center">
-  <img src="YOUR_AWARD_TEAM_PHOTO.jpg" width="800">
+  <img width="700" height="500" alt="photo_2026-09-03_15-02-50_LE_upscale_prime" src="https://github.com/user-attachments/assets/58c2320a-0129-4c68-9a3d-714e2bceaf7c" /> <img width="700" height="500" alt="Снимок экрана 2026-09-03 151731_LE_upscale_prime" src="https://github.com/user-attachments/assets/caa2e4e2-9bcb-4a60-83a8-01f377dcd3ba" />
+
 </p>
 
 ---
