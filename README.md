@@ -436,7 +436,8 @@ The competition environment required us to adapt quickly, communicate effectivel
 ## 🤖 Team & Robot
 
 <p align="center">
-  <img src="YOUR_TEAM_ROBOT_PHOTO.jpg" width="800">
+<img width="853" height="1023" alt="photo_2026-09-04_10-17-02" src="https://github.com/user-attachments/assets/38141b7f-c32f-4915-82b5-e75019688ce8" />
+
 </p>
 
 ## 🏆 Awards
