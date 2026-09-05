@@ -1,4 +1,4 @@
-# 🤖 FTC Dubai 2025
+# 🤖 FTC Dubai 2025 #25444
 
 <p align="center">
   <img width="1280" height="854" alt="photo_2025-07-01_19-33-58" src="https://github.com/user-attachments/assets/2a0a6a0b-b393-4211-9c13-ab5c2abd41b8" />
@@ -228,10 +228,6 @@ The drivers had to communicate and coordinate their actions precisely during mat
 
 ### Akbarshox
 
-<p align="center">
-  <img src="YOUR_HUMAN_PLAYER_BADGE.jpg" width="250">
-</p>
-
 Akbarshox performed the **Human Player** role during the competition.
 
 His role required coordination with the drivers and the overall match strategy.
@@ -242,9 +238,7 @@ His role required coordination with the drivers and the overall match strategy.
 
 ### Mirsaid
 
-<p align="center">
-  <img src="YOUR_COACH_BADGE.jpg" width="250">
-</p>
+
 
 Mirsaid worked as our **Coach**.
 
