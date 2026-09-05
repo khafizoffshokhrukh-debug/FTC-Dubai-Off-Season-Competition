@@ -365,7 +365,10 @@ Testing allowed us to identify problems and improve the robot before the competi
 After multiple iterations, we prepared the final robot for competition.
 
 <p align="center">
-  <img src="YOUR_FINAL_ROBOT_IMAGE.jpg" width="800">
+
+
+<img width="960" height="1280" alt="photo_2026-09-05_19-22-00" src="https://github.com/user-attachments/assets/340215ff-188c-45b7-bdac-431afac1d06c" />
+
 </p>
 
 ---
@@ -385,7 +388,7 @@ We focused on:
 * Troubleshooting
 
 <p align="center">
-  <img src="YOUR_PREPARATION_IMAGE.jpg" width="750">
+ <img width="853" height="1023" alt="photo_2026-09-04_10-17-02" src="https://github.com/user-attachments/assets/f527fb4d-503c-4622-a4fd-fa31c4b9b8a4" />
 </p>
 
 ---
@@ -453,11 +456,11 @@ The competition environment required us to adapt quickly, communicate effectivel
 
 Videos from our preparation and Dubai competition:
 
-* 🎥 **Robot Development:** [VIDEO LINK]
-* 🎥 **Practice:** [VIDEO LINK]
-* 🎥 **Competition:** [VIDEO LINK]
-* 🎥 **Match Footage:** [VIDEO LINK]
-* 🎥 **Robot Demonstration:** [VIDEO LINK]
+* 🎥 **High basket autonomous:** [https://www.youtube.com/shorts/h4-Pxzy_NA8]
+* 🎥 **High chamber autonomous:** [https://www.youtube.com/shorts/mzkwLKdb0qM]
+* 🎥 **Competition:** [https://www.youtube.com/shorts/FcJUyacrGo8]
+* 🎥 **Robot intake practice:** [https://www.youtube.com/shorts/yVpDwkMzPeM]
+
 
 ---
 
