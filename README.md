@@ -350,12 +350,14 @@ We tested the robot's mechanisms, movement, and control systems.
 
 ---
 
-## 05 — Improvements
+## 05 — T-shirt
 
 Testing allowed us to identify problems and improve the robot before the competition.
 
 <p align="center">
-  <img src="YOUR_PROCESS_05.jpg" width="750">
+ 
+<img width="1280" height="853" alt="photo_2025-06-19_23-11-55" src="https://github.com/user-attachments/assets/1473e3c4-9e39-4353-9fe5-a58580d37113" /><img width="1280" height="853" alt="photo_2025-06-18_23-16-54" src="https://github.com/user-attachments/assets/26ce31cb-1701-4fc1-89a0-a8e39674edfa" />
+
 </p>
 
 ---
