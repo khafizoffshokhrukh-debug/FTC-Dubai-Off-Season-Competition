@@ -335,7 +335,9 @@ We developed the robot structure and mechanisms using CAD.
 After developing the designs, we built and assembled the robot.
 
 <p align="center">
-  <img src="YOUR_PROCESS_03.jpg" width="750">
+
+<img width="960" height="1280" alt="photo_2025-07-01_13-57-38" src="https://github.com/user-attachments/assets/eae16f8f-6b5a-4a9d-b5fb-8c17b253435a" />
+
 </p>
 
 ---
@@ -345,7 +347,7 @@ After developing the designs, we built and assembled the robot.
 We tested the robot's mechanisms, movement, and control systems.
 
 <p align="center">
-  <img src="YOUR_PROCESS_04.jpg" width="750">
+  <img width="1280" height="720" alt="photo_2026-09-05_21-41-52" src="https://github.com/user-attachments/assets/4376f44c-59b4-4130-907d-2009e2a8dd90" />
 </p>
 
 ---
